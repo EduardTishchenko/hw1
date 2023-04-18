@@ -18,6 +18,8 @@ margin: 0 20px 0 20px;
 width: 90%;
     display: flex;
     min-height: 40px;
+    align-items: flex-start;
+    padding: 10px 0 0 30px;
 
 }
 
@@ -27,6 +29,8 @@ display: flex;
     background: #0066CC;
     border-radius: 20px;
 width: 7%;
+    align-items: center;
+    padding-left: 20px;
 }
 
 .button:hover {
